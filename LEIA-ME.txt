@@ -1,0 +1,18 @@
+MEU BANESTES 2026 — APP PESSOAL PARA ANDROID
+
+Este é um aplicativo web instalável (PWA), não um APK.
+
+COMO INSTALAR:
+1. Extraia os arquivos deste ZIP.
+2. Publique os arquivos em um site HTTPS estático (por exemplo, GitHub Pages ou Netlify).
+3. Abra o endereço HTTPS no Google Chrome do Android.
+4. Toque no menu de três pontos e escolha "Instalar app" ou "Adicionar à tela inicial".
+5. Depois da primeira abertura, o aplicativo pode funcionar offline.
+
+IMPORTANTE:
+- Os dados ficam salvos somente no navegador do aparelho. Não há login nem sincronização.
+- Exporte backups regularmente no painel inicial; restaure pelo botão "Importar backup".
+- Não há notificações push quando o aplicativo está fechado. Alertas aparecem ao abrir a aba Revisões.
+- Para instalar como aplicativo, é necessário hospedar os arquivos em HTTPS; abrir index.html como arquivo local não funciona.
+- O app usa os dados da planilha Banestes com 151 itens do edital, 51 dias de estudo e 15 dias de reta final.
+- A publicação em um endereço web não foi realizada automaticamente. Quem possuir o endereço poderá acessar o aplicativo e obter sua própria cópia inicial; seu progresso local não é publicado.
