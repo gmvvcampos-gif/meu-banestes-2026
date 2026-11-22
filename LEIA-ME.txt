@@ -16,3 +16,4 @@ IMPORTANTE:
 - Para instalar como aplicativo, é necessário hospedar os arquivos em HTTPS; abrir index.html como arquivo local não funciona.
 - O app usa os dados da planilha Banestes com 151 itens do edital, 51 dias de estudo e 15 dias de reta final.
 - A publicação em um endereço web não foi realizada automaticamente. Quem possuir o endereço poderá acessar o aplicativo e obter sua própria cópia inicial; seu progresso local não é publicado.
+Aplicativo Meu Banestes 2026.
